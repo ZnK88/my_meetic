@@ -1,0 +1,33 @@
+.ctrlform
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.logo
+{
+    width: 300px;
+    height: auto;
+}
+section
+{
+    display: flex;
+    flex-direction: column;
+    padding-top: 20%;
+    align-content: center;
+    align-items: center;
+    vertical-align: center;
+}
+
+.formulaire
+{
+    border: 1px solid black;
+    margin: 5px;
+    padding-top: auto;
+    padding-right: auto;
+}
+#valider
+{
+    display: flex;
+    align-content: center;
+}
